@@ -1,48 +1,36 @@
-<!-- GitHub Profile README — fibres -->
 <div align="center">
 
-#
+# Technical Artist · UE5 / Unity
 
-Technical Artist · UE5 / Unity 
+专注 UE5 蓝图系统、Unity Shader 开发
 
 </div>
 
 ---
 
-  
-专注 **UE5 蓝图系统**、**Unity Shader 开发**
-
----
-
-## 🛠 技能栈
+## 🛠️ 技能栈
 
 **引擎 & 工具**
 
-![UE5](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=flat&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat&logo=autodesk&logoColor=white)
-![Substance](https://img.shields.io/badge/Substance%20Designer-E85726?style=flat&logo=adobe&logoColor=white)
+![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-654444?style=flat-square&logo=unrealengine&logoColor=fff9f2)
+![Unity](https://img.shields.io/badge/Unity-a98b8b?style=flat-square&logo=unity&logoColor=fff9f2)
+![Maya](https://img.shields.io/badge/Maya-ebdcd7?style=flat-square&logo=autodesk&logoColor=654444)
+![Substance Designer](https://img.shields.io/badge/Substance_Designer-f3e2dd?style=flat-square&logoColor=654444)
 
 **着色器 & 渲染**
 
-![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=flat)
-![Surface Shader](https://img.shields.io/badge/Surface%20Shader-000000?style=flat)
-![URP/HDRP](https://img.shields.io/badge/URP%20%2F%20HDRP-000000?style=flat&logo=unity&logoColor=white)
-![PBR](https://img.shields.io/badge/PBR-2E75B6?style=flat)
+![HLSL](https://img.shields.io/badge/HLSL-654444?style=flat-square&logoColor=fff9f2)
+![Surface Shader](https://img.shields.io/badge/Surface_Shader-a98b8b?style=flat-square&logoColor=fff9f2)
+![URP / HDRP](https://img.shields.io/badge/URP_/_HDRP-ebdcd7?style=flat-square&logo=unity&logoColor=654444)
+![PBR](https://img.shields.io/badge/PBR-f3e2dd?style=flat-square&logoColor=654444)
 
 **语言**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-654444?style=flat-square&logo=csharp&logoColor=fff9f2)
+![C++](https://img.shields.io/badge/C++-a98b8b?style=flat-square&logo=cplusplus&logoColor=fff9f2)
 
 ---
-
-
 
 ## 📬 联系我
 
-📱 132-2460-0078 &nbsp;|&nbsp; 📧 2147859785@qq.com &nbsp;|&nbsp; 💬 WeChat: y86432196
-
----
-
-
+📱 132-2460-0078 &nbsp;|&nbsp; 📧 [2147859785@qq.com](mailto:2147859785@qq.com) &nbsp;|&nbsp; 💬 WeChat: y86432196
