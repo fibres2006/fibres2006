@@ -3,7 +3,7 @@
 
 #
 
-**Technical Artist · UE5 / Unity **
+Technical Artist · UE5 / Unity 
 
 </div>
 
