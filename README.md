@@ -3,7 +3,7 @@
 
 #
 
-**Technical Artist · UE5 / Unity · XR & Immersive**
+**Technical Artist · UE5 / Unity **
 
 </div>
 
@@ -29,7 +29,6 @@
 ![Surface Shader](https://img.shields.io/badge/Surface%20Shader-000000?style=flat)
 ![URP/HDRP](https://img.shields.io/badge/URP%20%2F%20HDRP-000000?style=flat&logo=unity&logoColor=white)
 ![PBR](https://img.shields.io/badge/PBR-2E75B6?style=flat)
-![FlowMap](https://img.shields.io/badge/FlowMap%20水体-1D9E75?style=flat)
 
 **语言**
 
