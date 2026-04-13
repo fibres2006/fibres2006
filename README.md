@@ -46,7 +46,4 @@
 
 ---
 
-<!-- Snake 贡献图（需配置 GitHub Actions，见下方说明） -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="GitHub contribution snake" />
-</div>
+
